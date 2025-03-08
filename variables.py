@@ -8,4 +8,6 @@ mensaje="hola mundo"
 print(type(mensaje))
 estado=False
 print(type(estado))
+entero=20
+print(type(entero))
 
